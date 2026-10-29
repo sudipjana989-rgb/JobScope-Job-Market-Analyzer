@@ -1,0 +1,11 @@
+Job_Title,Company,Location,Python,SQL,Excel,Machine_Learning,Salary
+Data Analyst,ABC Tech,Kolkata,1,1,1,0,350000
+Data Scientist,XYZ Ltd,Bengaluru,1,1,0,1,600000
+Python Developer,Tech Solutions,Kolkata,1,1,0,0,400000
+ML Engineer,AI Systems,Bengaluru,1,1,0,1,700000
+Data Analyst,Digital Works,Delhi,0,1,1,0,320000
+Data Scientist,Future AI,Hyderabad,1,1,0,1,550000
+Python Developer,Code Labs,Pune,1,0,1,0,380000
+Data Analyst,Smart Tech,Mumbai,0,1,1,0,420000
+ML Engineer,AI Innovations,Delhi,1,1,0,1,650000
+Python Developer,Web Solutions,Kolkata,1,1,1,0,450000
